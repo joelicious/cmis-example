@@ -1,0 +1,22 @@
+<settings>
+
+	<localRepository>c:/devel/maven/repositories/cmisExampleRepository</localRepository>
+
+	<mirrors/>
+
+	<profiles>
+		<profile>
+		
+			<id>development</id>
+			<repositories/>
+			<pluginRepositories/>
+
+		</profile>
+
+	</profiles>
+
+	<activeProfiles>
+		<activeProfile>development</activeProfile>
+	</activeProfiles>
+
+</settings>
